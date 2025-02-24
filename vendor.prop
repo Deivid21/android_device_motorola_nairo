@@ -13,7 +13,6 @@ bluetooth.device.default_name=moto g 5G Plus
 
 # Camera
 persist.vendor.camera.physical.num=6
-persist.vendor.camera.privapp.list=com.motorola.camera3
 
 # Chipset
 ro.soc.manufacturer=QTI
